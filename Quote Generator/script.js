@@ -28,7 +28,7 @@ const quotes = [
     }, {
         quote: "I do the very best I know how - the very best I can; and I mean to keep doing so until the end.",
         person:"Abraham Lincoln",
-    }
+    }, { quote: "Our lives begin to end the moment we are quiet about the things that matter.", person: "Martin Luther King Jr",}
 ]
 
 btn.addEventListener("click", generateQuotes);
